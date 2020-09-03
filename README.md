@@ -32,7 +32,3 @@
 <img src="https://raw.githubusercontent.com/guolindev/coolweatherjetpack/master/images/Screenshot_1.png" width="250" />&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/guolindev/coolweatherjetpack/master/images/Screenshot_2.png" width="250" />
 
 最后，希望这个项目能够帮助大家更好地学习Jetpack，更好地学习MVVM架构。
-
-学习更多的Android技术知识，请关注我的微信公众号：
-
-<img src="https://raw.githubusercontent.com/guolindev/booksource/master/qrcode.jpg" width="250" />
